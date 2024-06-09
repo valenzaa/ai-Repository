@@ -1,4 +1,6 @@
-# ai-Repository
+
+# ai-Repository![output11](https://github.com/valenzaa/ai-Repository/assets/144785020/4edacd6c-46c4-4f86-9ba8-c9865291ffa8)
+
 # การใช้งาน ai-Repository.py 
 
 ไฟล์ `ai-Repository.py` จะสร้างภาพ PNG และ GIF จากข้อความ พร้อมแปลงเป็นวิดีโอ MP4 โดยมีความยาวมากกว่า 3 วินาที
